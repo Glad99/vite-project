@@ -1,0 +1,22 @@
+.first{
+  background-color: aquamarine;
+}
+
+.btn{
+  background-color: cadetblue;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 10rem;
+}
+.item{
+  display: flex;
+  height: 15rem;
+  flex-direction: column;
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+}
